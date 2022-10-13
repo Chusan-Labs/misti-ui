@@ -1,4 +1,4 @@
-# Mista UI
+# Misti UI
 a beatiful and elegant theme for ui components
 
 Install
